@@ -9,7 +9,7 @@
 Unity로 제작된 독도와 관련된 AR 컨텐츠입니다.\
 독도의 역사와 각종 시설 및 서식 생물등을 AR 컨텐츠로 접할 수 있습니다.
 
-<img width="20%" src="https://user-images.githubusercontent.com/90584581/196046199-d2346e11-0d1c-4296-a13f-05bd8a555c56.jpg"/>
+<img width="40%" src="https://user-images.githubusercontent.com/90584581/196893974-9d50e54d-d57d-445e-9de4-a610a01a3765.jpg"/>
 
 ### 프로젝트 투입 인원
 개발자 1, 디자이너 2
