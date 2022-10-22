@@ -21,6 +21,4 @@ Unity로 제작된 독도와 관련된 AR 컨텐츠입니다.\
 - AR 컨텐츠 제작
 - 프로젝트 QA
 
-### 핵심 코드
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
